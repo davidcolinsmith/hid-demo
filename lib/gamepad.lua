@@ -1,0 +1,18 @@
+-- HID data for gamepad
+-- KEYCODE(if present), type/code/value_range
+-- ABS_X, 3/0/(32767, -32768)
+-- ABS_Y, 3/1/(32767, -32768)
+-- ABS_RX, 3/3/(32767, -32768)
+-- ABS_RY, 3/4/(32767, -32768)
+-- ABS_HAT0X, 3/16/(1, 0, -1)
+-- ABS_HAT0Y, 3/17/(1, 0, -1)
+-- A button, 1/304/1,0
+-- B button, 1/305/1,0
+-- X button, 1/307/1,0
+-- Y button, 1/308/1,0
+-- L Bumper, 1/310/1,0
+-- R Bumper, 1/311/1,0
+-- Back, 1/314/1,0
+-- Start, 1/315/1,0
+-- ABS_Z, 3/2/0-255
+-- ABS_RZ, 3/5/0-255
